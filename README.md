@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering at KCA University of Nairobi Kenya.
+- 🎓 &nbsp; Studied Software Engineering at KCA University of Nairobi Kenya.
 - 💼 &nbsp; Working Voluntarily to maintain the Kiambu High School Alumni Foundation website @[khsaf.org](https://www.khsaf.org).
 - 🌱 &nbsp; Learning more about Cloud Architecture(AWS), DSA, Artificial Intelligence among more technologies.
 - ✍️ &nbsp; Pursuing UI/UX, Graphic Design, Web Development and Blog Writing as hobbies/freelance side hustles.
