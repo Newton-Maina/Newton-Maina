@@ -53,7 +53,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://codesbynewton.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.codesbynewton.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://portfolio.codesbynewton.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.portfolio.codesbynewton.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/newton-maina-gatiba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Newton%20Maina-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/deceptive_j.i.n.g.e.r/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-deceptive_jinger-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:newtonmainag@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-newtonmainag@gmail.com-blue?style=flat-square&logo=gmail"></a>
