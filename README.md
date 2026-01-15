@@ -51,7 +51,7 @@
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://portfolio.codesbynewton.com/"><img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://portfolio.codesbynewton.com/archives"><img alt="Client Builds" src="https://img.shields.io/badge/View-Client_Builds-success?style=flat-square&logo=vercel"></a>
 <a href="https://github.com/NEWTON857-beep"><img alt="Work GitHub" src="https://img.shields.io/badge/Work_GitHub-@NEWTON857--beep-181717?style=flat-square&logo=github"></a>
