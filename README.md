@@ -48,9 +48,7 @@
 ![Appwrite](https://img.shields.io/badge/-Appwrite-333333?style=flat&logo=appwrite)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
-
 <br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -62,3 +60,4 @@
 </p>
 
 ⭐️ From [Newton-Maina](https://github.com/Newton-Maina)
+⭐️ My Work Acc: [NEWTON857-beep](https://github.com/NEWTON857-beep)
