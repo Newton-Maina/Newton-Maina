@@ -13,6 +13,7 @@
 **Languages**
 <br/>
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=white)
@@ -23,7 +24,9 @@
 <br/>
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -48,6 +51,8 @@
 ![Appwrite](https://img.shields.io/badge/-Appwrite-333333?style=flat&logo=appwrite)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
+![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat)
+![MobaXterm](https://img.shields.io/badge/-MobaXterm-333333?style=flat)
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
