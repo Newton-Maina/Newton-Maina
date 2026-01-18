@@ -1,4 +1,19 @@
-<h2>👋 Hey there! I'm Newton.</h2>
+# 👋 Hey there! I'm Newton.
+
+### Full-Stack Developer | DevOps & Automation | AWS Certified
+
+<p align="left">
+  <a href="https://portfolio.codesbynewton.com/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-0088CC?style=for-the-badge&logoColor=white" alt="Portfolio Website"/>
+  </a>
+  <a href="https://github.com/NEWTON857-beep">
+    <img src="https://img.shields.io/badge/💼_Work_Account-@NEWTON857--beep-181717?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub"/>
+  </a>
+</p>
+
+</div>
+
+---
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
