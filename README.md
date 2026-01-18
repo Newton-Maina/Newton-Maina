@@ -23,6 +23,8 @@
 - 🚀 &nbsp; Building scalable Fintech & Blockchain solutions using **Next.js, React, Django, and Solidity**.
 - 🛠 &nbsp; See my enterprise/platform contributions at my work handle: **[@NEWTON857-beep](https://github.com/NEWTON857-beep)**.
 
+---
+
 <h3> 🛠 &nbsp;My Tech Stack</h3>
 
 **Languages**
@@ -68,6 +70,9 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat)
 ![MobaXterm](https://img.shields.io/badge/-MobaXterm-333333?style=flat)
+
+---
+
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
