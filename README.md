@@ -17,7 +17,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; **Full-Stack Developer (DevOps & Automation INCLUSIVE)** at **iForge**.
+- 💼 &nbsp; **Full-Stack Developer (DevOps & Automation INCLUSIVE)**.
 - 🎓 &nbsp; B.Sc. Software Development Graduate (KCA University, Class of 2025).
 - ☁️ &nbsp; **AWS Certified Cloud Practitioner** experienced in Cloud Architecture.
 - 🚀 &nbsp; Building scalable Fintech & Blockchain solutions using **Next.js, React, Django, and Solidity**.
