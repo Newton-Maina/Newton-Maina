@@ -18,7 +18,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; **Full-Stack Developer (DevOps & Automation INCLUSIVE)**.
-- 🎓 &nbsp; B.Sc. Software Development Graduate (KCA University, Class of 2025).
+- 🎓 &nbsp; B.Sc. Software Development Graduate (KCA University).
 - ☁️ &nbsp; **AWS Certified Cloud Practitioner** experienced in Cloud Architecture.
 - 🚀 &nbsp; Building scalable Fintech & Blockchain solutions using **Next.js, React, Django, and Solidity**.
 - 🛠 &nbsp; See my enterprise/platform contributions at my work handle: **[@NEWTON857-beep](https://github.com/NEWTON857-beep)**.
